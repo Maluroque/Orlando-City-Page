@@ -281,3 +281,45 @@ footer .text-roxo {
 	font-weight: bold;
 	font-size: 14px;
 }
+footer .logotipo{
+	margin-top: 28px;
+}
+footer .col-popular-post, footer .col-links , footer .col-get{
+	margin-top: 40px;
+}
+footer .row-cols h4{
+	font-family: 'OpenSans';
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding-bottom:  17px;
+	border-bottom: #242d37 1px solid;
+}
+footer .row-cols h5{
+	color: #666;
+	font-family: Arial;
+	font-size: 14px;
+}
+footer .row-cols time{
+	color:#fde192;
+}
+footer .col-links a{
+	color: #fff;
+	font-family: Arial;
+	font-size: 14px;
+}
+footer .col-links li:hover a {
+	color: blueviolet;
+}
+footer .col-get address{
+	color: #fff;
+	font-family: Arial;
+	font-size: 14px;
+}
+footer .col-get address span{
+	display: inline-block;
+}
+footer .col-get i{
+	color: #9b9b9b;
+	font-size: 0 6px;
+}
